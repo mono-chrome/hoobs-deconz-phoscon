@@ -129,8 +129,8 @@ sudo dpkg -i wiringpi-latest.deb
 echo "Wiring Pi installed"
 echo "----------------------------------------------------------------"
 echo "Updating deCONZ"
-wget http://deconz.dresden-elektronik.de/raspbian/stable/deconz-latest.deb
-sudo dpkg -i deconz-latest.deb
+wget http://deconz.dresden-elektronik.de/raspbian/beta/deconz-latest-beta.deb
+sudo dpkg -i deconz-latest-beta.deb
 echo "deCONZ updated"
 echo "----------------------------------------------------------------"
 echo "Creating deCONZ service"
