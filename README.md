@@ -12,7 +12,7 @@ This option is not available on Docker
 
 Run the following command:
 
-```wget -q -O - https://raw.githubusercontent.com/hoobs-org/hoobs-deconz-phoscon/master/deconz-phoscon-hoobs.sh | sudo bash -```
+```wget -q -O - https://raw.githubusercontent.com/mono-chrome/hoobs-deconz-phoscon/master/deconz-phoscon-hoobs.sh | sudo bash -```
 
 Copy this command all in one line
 
